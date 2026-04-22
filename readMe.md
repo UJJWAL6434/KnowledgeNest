@@ -1,42 +1,96 @@
-# 📚 KnowledgeNest
+# 🚀 KnowledgeNest
 
-**KnowledgeNest** is a full-stack Learning Management System (LMS) platform that empowers students to **learn and teach** through video-based courses — completely free of cost. Built with a focus on community learning, it allows users to seamlessly switch roles between learner and educator.
+## 📌 Description
 
----
-
-## 🚀 Features
-
-### 👨‍🎓 Student Dashboard
-- View and continue watching enrolled courses
-- Track progress for each video
-- Explore available content shared by peers
-
-### 🎓 Instructor Dashboard
-- Upload and manage course videos
-- Publish/unpublish courses with one click
-- View all uploaded content in one place
-
-### 🔐 Authentication & Role Management
-- Secure login/signup with JWT
-- Separate views and permissions for learners and instructors
-- Route protection for authorized access
+KnowledgeNest is a full-stack Learning Management System (LMS) platform that allows users to learn and teach through video-based courses.
+It supports both learners and educators with an easy-to-use interface.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-| Frontend      | Backend       | Database   | Others              |
-|---------------|---------------|------------|---------------------|
-| React.js      | Node.js       | MongoDB    | Express.js          |
-| Tailwind CSS  | JWT Auth      | Mongoose   | Cloudinary (for media) |
+* 👨‍🎓 User Authentication (Login/Signup)
+* 📚 Course Creation & Enrollment
+* 🎥 Video-based Learning
+* 🔄 Role Switching (Student / Instructor)
+* 📊 Dashboard for users
 
 ---
+
+## 🛠 Tech Stack
+
+* Frontend: React.js
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Other: JWT Authentication
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/UJJWAL6434/KnowledgeNest.git
+```
+
+2. Go to project folder
+
+```bash
+cd KnowledgeNest
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the server
+
+```bash
+npm start
+```
+
+---
+
+## ▶️ Usage
+
+* Sign up as a student or instructor
+* Browse or create courses
+* Watch videos and track learning
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+---
+
+## 🚧 Future Improvements
+
+* Payment integration
+* Live classes
+* Certificate generation
+
+---
+
+## 👨‍💻 Author
+
+Ujjwal Ojha
+
+---
+
+## ⚠️ Note
+
+This project is inspired by existing LMS platforms and has been modified and customized for learning purposes.
 
 ## 🌐 Live Demo
 
 https://knowledgenest-q9le.onrender.com/
 
----
+
 
 
 
